@@ -1,0 +1,13 @@
+﻿  ppodev2Sude.cpp
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(112,44): warning C4244: '-=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(114,44): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(121,13): warning C4101: 'hesap_gun': yerel değişken başvurusu kaldırıldı
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(119,13): warning C4101: 'arr': yerel değişken başvurusu kaldırıldı
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(142,14): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(144,28): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(228,37): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(229,36): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(237,37): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(238,36): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Lenovo\source\repo\PG_2Kriptoapp\PG_2Kriptoapp\ppodev2Sude.cpp(149): warning C4715: 'hesapIndexiBul': tüm denetim yolları değer döndürmez
+  PG_2Kriptoapp.vcxproj -> C:\Users\Lenovo\source\repo\PG_2Kriptoapp\x64\Debug\PG_2Kriptoapp.exe
